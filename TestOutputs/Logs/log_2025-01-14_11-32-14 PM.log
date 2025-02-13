@@ -1,0 +1,5 @@
+[INFO] 14-01-2025 23:32:14 [main] [TestCases.TC02HomeTest.setup(TC02HomeTest.java:28)] - EDGE Browser IS Opened
+[INFO] 14-01-2025 23:32:16 [main] [TestCases.TC02HomeTest.setup(TC02HomeTest.java:30)] - Redirected To LoginPage
+[INFO] 14-01-2025 23:32:18 [main] [Pages.P02HomePage.addAllItemsToCart(P02HomePage.java:32)] - Number Of All Products 6
+[INFO] 14-01-2025 23:32:19 [main] [Pages.P02HomePage.getNumberOfItemsInCart(P02HomePage.java:45)] - Number Of Products Added in Cart 6
+[INFO] 14-01-2025 23:32:19 [main] [Pages.P02HomePage.noOfSelectedItems(P02HomePage.java:61)] - Number Of selectedProducts 6

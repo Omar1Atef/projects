@@ -1,0 +1,10 @@
+[INFO] 12-02-2025 23:03:20 [main] [TestCases.TC03CartTest.setup(TC03CartTest.java:32)] - EDGE Browser IS Opened
+[INFO] 12-02-2025 23:03:22 [main] [TestCases.TC03CartTest.setup(TC03CartTest.java:34)] - Redirected To LoginPage
+[INFO] 12-02-2025 23:03:25 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case comparingPricesTC Started
+[INFO] 12-02-2025 23:03:26 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 1
+[INFO] 12-02-2025 23:03:26 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 2
+[INFO] 12-02-2025 23:03:26 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 3
+[INFO] 12-02-2025 23:03:26 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 4
+[INFO] 12-02-2025 23:03:26 [main] [Pages.P02HomePage.getTotalPriceOfSelectedProductsInHomePage(P02HomePage.java:122)] - Total Price Of Selected Products In Home Page = 105.96001
+[INFO] 12-02-2025 23:03:27 [main] [Pages.P03CartPage.getTotalPriceOfSelectedProductsInCartPage(P03CartPage.java:42)] - Total Price Of Products In Cart Page = 105.96001
+[INFO] 12-02-2025 23:03:27 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case comparingPricesTC Passed

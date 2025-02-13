@@ -1,0 +1,13 @@
+[INFO] 31-01-2025 20:17:56 [main] [TestCases.TC06FinishingOrderTest.login(TC06FinishingOrderTest.java:36)] - EDGE Browser IS Opened
+[INFO] 31-01-2025 20:17:58 [main] [TestCases.TC06FinishingOrderTest.login(TC06FinishingOrderTest.java:38)] - Redirected To LoginPage
+[INFO] 31-01-2025 20:18:03 [main] [TestCases.TC06FinishingOrderTest.setup(TC06FinishingOrderTest.java:56)] - EDGE Browser IS Opened
+[INFO] 31-01-2025 20:18:06 [main] [TestCases.TC06FinishingOrderTest.setup(TC06FinishingOrderTest.java:58)] - Open Login Page
+[INFO] 31-01-2025 20:18:07 [main] [TestCases.TC06FinishingOrderTest.setup(TC06FinishingOrderTest.java:61)] - Redirected To HomePage Direct Because Cookies Of Login Is Saved
+[INFO] 31-01-2025 20:18:07 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case finishOrderTC Started
+[INFO] 31-01-2025 20:18:07 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 1
+[INFO] 31-01-2025 20:18:08 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 3
+[INFO] 31-01-2025 20:18:08 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 4
+[INFO] 31-01-2025 20:18:08 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 6
+[INFO] 31-01-2025 20:18:09 [main] [TestCases.TC06FinishingOrderTest.finishOrderTC(TC06FinishingOrderTest.java:81)] - Zipcode is 11155 Firstname is Omar-2025-01-31-8-17-46PM Lastname is Atef-2025-01-31-8-17-46PM
+[INFO] 31-01-2025 20:18:09 [main] [Pages.P06FinishingOrderPage.assertVisibilityOfThanksMessage(P06FinishingOrderPage.java:20)] - MSG: Thank you for your order!
+[INFO] 31-01-2025 20:18:09 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case finishOrderTC Passed

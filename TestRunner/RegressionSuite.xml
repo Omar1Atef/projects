@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Regression Suite">
+    <listeners>
+        <listener class-name="Listeners.ITestListener"/>
+        <listener class-name="Listeners.IInvokedListener"/>
+    </listeners>
+
+    <test name="Regression Test">
+        <classes>
+            <class name="TestCases.TC01LoginTest"/>
+            <class name="TestCases.TC02HomeTest"/>
+            <class name="TestCases.TC03CartTest"/>
+            <class name="TestCases.TC04CheckoutTest"/>
+            <class name="TestCases.TC05OverviewTest"/>
+            <class name="TestCases.TC06FinishingOrderTest"/>
+        </classes>
+    </test>
+</suite>

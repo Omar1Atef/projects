@@ -1,0 +1,11 @@
+[INFO] 30-01-2025 19:43:16 [main] [TestCases.TC05OverviewTest.setup(TC05OverviewTest.java:35)] - EDGE Browser IS Opened
+[INFO] 30-01-2025 19:43:19 [main] [TestCases.TC05OverviewTest.setup(TC05OverviewTest.java:37)] - Redirected To LoginPage
+[INFO] 30-01-2025 19:43:19 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case checkOutStepTWOTC Started
+[INFO] 30-01-2025 19:43:20 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 2
+[INFO] 30-01-2025 19:43:20 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 3
+[INFO] 30-01-2025 19:43:20 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 4
+[INFO] 30-01-2025 19:43:20 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 5
+[INFO] 30-01-2025 19:43:24 [main] [TestCases.TC05OverviewTest.checkOutStepTWOTC(TC05OverviewTest.java:65)] - Zipcode is 14671 Firstname is Omar-2025-01-30-7-42-59PM Lastname is Atef-2025-01-30-7-42-59PM
+[INFO] 30-01-2025 19:43:24 [main] [Pages.P05OverviewPage.calculateTotalPrice(P05OverviewPage.java:55)] - Calculated Total Price = 90.68
+[INFO] 30-01-2025 19:43:24 [main] [Pages.P05OverviewPage.getTotalPriceIncludingTax(P05OverviewPage.java:49)] - Actual Total Price Includes Taxes = 90.68
+[INFO] 30-01-2025 19:43:25 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case checkOutStepTWOTC Passed

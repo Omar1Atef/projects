@@ -1,0 +1,4 @@
+[INFO] 14-01-2025 01:55:37 [main] [TestCases.TC01LoginTest.setup(TC01LoginTest.java:33)] - EDGE Browser IS Opened
+[INFO] 14-01-2025 01:55:41 [main] [TestCases.TC01LoginTest.setup(TC01LoginTest.java:35)] - Redirected To LoginPage
+[INFO] 14-01-2025 01:55:41 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case validLoginTC Started
+[INFO] 14-01-2025 01:55:42 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case validLoginTC Passed

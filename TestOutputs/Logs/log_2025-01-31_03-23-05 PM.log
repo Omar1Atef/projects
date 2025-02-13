@@ -1,0 +1,67 @@
+[INFO] 31-01-2025 15:23:05 [main] [TestCases.TC01LoginTest.setup(TC01LoginTest.java:33)] - EDGE Browser IS Opened
+[INFO] 31-01-2025 15:23:06 [main] [TestCases.TC01LoginTest.setup(TC01LoginTest.java:35)] - Redirected To LoginPage
+[INFO] 31-01-2025 15:23:07 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case validLoginTC Started
+[INFO] 31-01-2025 15:23:09 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case validLoginTC Passed
+[INFO] 31-01-2025 15:23:16 [main] [TestCases.TC02HomeTest.setup(TC02HomeTest.java:29)] - EDGE Browser IS Opened
+[INFO] 31-01-2025 15:23:19 [main] [TestCases.TC02HomeTest.setup(TC02HomeTest.java:31)] - Redirected To LoginPage
+[INFO] 31-01-2025 15:23:19 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case checkNoOfSelectedItemsTC Started
+[INFO] 31-01-2025 15:23:20 [main] [Pages.P02HomePage.addAllItemsToCart(P02HomePage.java:48)] - Number Of All Products 6
+[INFO] 31-01-2025 15:23:21 [main] [Pages.P02HomePage.getNumberOfItemsInCart(P02HomePage.java:92)] - Number Of Products Added in Cart 6
+[INFO] 31-01-2025 15:23:21 [main] [Pages.P02HomePage.noOfSelectedItems(P02HomePage.java:76)] - Number Of selectedProducts 6
+[INFO] 31-01-2025 15:23:21 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case checkNoOfSelectedItemsTC Passed
+[INFO] 31-01-2025 15:23:24 [main] [TestCases.TC02HomeTest.setup(TC02HomeTest.java:29)] - EDGE Browser IS Opened
+[INFO] 31-01-2025 15:23:28 [main] [TestCases.TC02HomeTest.setup(TC02HomeTest.java:31)] - Redirected To LoginPage
+[INFO] 31-01-2025 15:23:28 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case checkNoOfSelectedRandomItemsTC Started
+[INFO] 31-01-2025 15:23:29 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 4
+[INFO] 31-01-2025 15:23:29 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 5
+[INFO] 31-01-2025 15:23:29 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 6
+[INFO] 31-01-2025 15:23:29 [main] [Pages.P02HomePage.getNumberOfItemsInCart(P02HomePage.java:92)] - Number Of Products Added in Cart 3
+[INFO] 31-01-2025 15:23:29 [main] [Pages.P02HomePage.noOfSelectedItems(P02HomePage.java:76)] - Number Of selectedProducts 3
+[INFO] 31-01-2025 15:23:29 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case checkNoOfSelectedRandomItemsTC Passed
+[INFO] 31-01-2025 15:23:32 [main] [TestCases.TC02HomeTest.setup(TC02HomeTest.java:29)] - EDGE Browser IS Opened
+[INFO] 31-01-2025 15:23:36 [main] [TestCases.TC02HomeTest.setup(TC02HomeTest.java:31)] - Redirected To LoginPage
+[INFO] 31-01-2025 15:23:36 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case clickOnCartIcon Started
+[INFO] 31-01-2025 15:23:36 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 2
+[INFO] 31-01-2025 15:23:36 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 3
+[INFO] 31-01-2025 15:23:36 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 4
+[INFO] 31-01-2025 15:23:37 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case clickOnCartIcon Passed
+[INFO] 31-01-2025 15:23:40 [main] [TestCases.TC03CartTest.setup(TC03CartTest.java:32)] - EDGE Browser IS Opened
+[INFO] 31-01-2025 15:23:45 [main] [TestCases.TC03CartTest.setup(TC03CartTest.java:34)] - Redirected To LoginPage
+[INFO] 31-01-2025 15:23:45 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case comparingPricesTC Started
+[INFO] 31-01-2025 15:23:45 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 1
+[INFO] 31-01-2025 15:23:45 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 2
+[INFO] 31-01-2025 15:23:46 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 5
+[INFO] 31-01-2025 15:23:46 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 6
+[INFO] 31-01-2025 15:23:46 [main] [Pages.P02HomePage.getTotalPriceOfSelectedProductsInHomePage(P02HomePage.java:122)] - Total Price Of Selected Products In Home Page = 63.96
+[INFO] 31-01-2025 15:23:46 [main] [Pages.P03CartPage.getTotalPriceOfSelectedProductsInCartPage(P03CartPage.java:42)] - Total Price Of Products In Cart Page = 63.96
+[INFO] 31-01-2025 15:23:46 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case comparingPricesTC Passed
+[INFO] 31-01-2025 15:23:51 [main] [TestCases.TC04CheckoutTest.setup(TC04CheckoutTest.java:40)] - EDGE Browser IS Opened
+[INFO] 31-01-2025 15:23:54 [main] [TestCases.TC04CheckoutTest.setup(TC04CheckoutTest.java:42)] - Redirected To LoginPage
+[INFO] 31-01-2025 15:23:54 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case checkOutStepOneTC Started
+[INFO] 31-01-2025 15:23:54 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 1
+[INFO] 31-01-2025 15:23:55 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 2
+[INFO] 31-01-2025 15:23:55 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 3
+[INFO] 31-01-2025 15:23:55 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 6
+[INFO] 31-01-2025 15:23:56 [main] [TestCases.TC04CheckoutTest.checkOutStepOneTC(TC04CheckoutTest.java:70)] - Zipcode is 95564 Firstname is Omar-2025-01-31-3-22-27PM Lastname is Atef-2025-01-31-3-22-27PM
+[INFO] 31-01-2025 15:23:56 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case checkOutStepOneTC Passed
+[INFO] 31-01-2025 15:24:01 [main] [TestCases.TC05OverviewTest.setup(TC05OverviewTest.java:35)] - EDGE Browser IS Opened
+[INFO] 31-01-2025 15:24:05 [main] [TestCases.TC05OverviewTest.setup(TC05OverviewTest.java:37)] - Redirected To LoginPage
+[INFO] 31-01-2025 15:24:05 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case checkOutStepTWOTC Started
+[INFO] 31-01-2025 15:24:05 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 1
+[INFO] 31-01-2025 15:24:05 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 2
+[INFO] 31-01-2025 15:24:05 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 3
+[INFO] 31-01-2025 15:24:05 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 4
+[INFO] 31-01-2025 15:24:06 [main] [TestCases.TC05OverviewTest.checkOutStepTWOTC(TC05OverviewTest.java:65)] - Zipcode is 87313 Firstname is Omar-2025-01-31-3-22-27PM Lastname is Atef-2025-01-31-3-22-27PM
+[INFO] 31-01-2025 15:24:06 [main] [Pages.P05OverviewPage.calculateTotalPrice(P05OverviewPage.java:55)] - Calculated Total Price = 114.44
+[INFO] 31-01-2025 15:24:07 [main] [Pages.P05OverviewPage.getTotalPriceIncludingTax(P05OverviewPage.java:49)] - Actual Total Price Includes Taxes = 114.44
+[INFO] 31-01-2025 15:24:07 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case checkOutStepTWOTC Passed
+[INFO] 31-01-2025 15:24:11 [main] [TestCases.TC06FinishingOrderTest.setup(TC06FinishingOrderTest.java:35)] - EDGE Browser IS Opened
+[INFO] 31-01-2025 15:24:17 [main] [TestCases.TC06FinishingOrderTest.setup(TC06FinishingOrderTest.java:37)] - Redirected To LoginPage
+[INFO] 31-01-2025 15:24:17 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case finishOrderTC Started
+[INFO] 31-01-2025 15:24:17 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 1
+[INFO] 31-01-2025 15:24:17 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 2
+[INFO] 31-01-2025 15:24:18 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 3
+[INFO] 31-01-2025 15:24:18 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 5
+[INFO] 31-01-2025 15:24:19 [main] [TestCases.TC06FinishingOrderTest.finishOrderTC(TC06FinishingOrderTest.java:64)] - Zipcode is 67688 Firstname is Omar-2025-01-31-3-22-27PM Lastname is Atef-2025-01-31-3-22-27PM
+[INFO] 31-01-2025 15:24:19 [main] [Pages.P06FinishingOrderPage.assertVisibilityOfThanksMessage(P06FinishingOrderPage.java:20)] - MSG: Thank you for your order!
+[INFO] 31-01-2025 15:24:19 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case finishOrderTC Passed

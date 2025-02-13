@@ -1,0 +1,7 @@
+[INFO] 27-01-2025 13:43:42 [main] [TestCases.TC02HomeTest.setup(TC02HomeTest.java:29)] - EDGE Browser IS Opened
+[INFO] 27-01-2025 13:43:46 [main] [TestCases.TC02HomeTest.setup(TC02HomeTest.java:31)] - Redirected To LoginPage
+[INFO] 27-01-2025 13:43:48 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case clickOnCartIcon Started
+[INFO] 27-01-2025 13:43:50 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:57)] - random number 2
+[INFO] 27-01-2025 13:43:51 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:57)] - random number 3
+[INFO] 27-01-2025 13:43:51 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:57)] - random number 4
+[INFO] 27-01-2025 13:43:51 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case clickOnCartIcon Passed

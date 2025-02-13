@@ -1,0 +1,11 @@
+[INFO] 27-01-2025 22:57:20 [main] [TestCases.TC04CheckoutTest.setup(TC04CheckoutTest.java:40)] - EDGE Browser IS Opened
+[INFO] 27-01-2025 22:57:23 [main] [TestCases.TC04CheckoutTest.setup(TC04CheckoutTest.java:42)] - Redirected To LoginPage
+[INFO] 27-01-2025 22:57:23 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case clickOnCartIcon Started
+[INFO] 27-01-2025 22:57:24 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 2
+[INFO] 27-01-2025 22:57:24 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 3
+[INFO] 27-01-2025 22:57:24 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 4
+[INFO] 27-01-2025 22:57:24 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 6
+[INFO] 27-01-2025 22:57:25 [main] [Pages.P04CheckoutPage.enterFirstName(P04CheckoutPage.java:30)] - Firstname is Omar-2025-01-27-10-57-13PM
+[INFO] 27-01-2025 22:57:25 [main] [Pages.P04CheckoutPage.enterLastName(P04CheckoutPage.java:37)] - Lastname is Atef-2025-01-27-10-57-13PM
+[INFO] 27-01-2025 22:57:25 [main] [Pages.P04CheckoutPage.enterPostalCode(P04CheckoutPage.java:44)] - Zipcode is 88162
+[INFO] 27-01-2025 22:57:25 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case clickOnCartIcon Passed

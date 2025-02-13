@@ -1,0 +1,10 @@
+[INFO] 30-01-2025 20:22:27 [main] [TestCases.TC06FinishingOrderTest.setup(TC06FinishingOrderTest.java:35)] - EDGE Browser IS Opened
+[INFO] 30-01-2025 20:22:29 [main] [TestCases.TC06FinishingOrderTest.setup(TC06FinishingOrderTest.java:37)] - Redirected To LoginPage
+[INFO] 30-01-2025 20:22:29 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case finishOrderTC Started
+[INFO] 30-01-2025 20:22:30 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 1
+[INFO] 30-01-2025 20:22:30 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 3
+[INFO] 30-01-2025 20:22:30 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 4
+[INFO] 30-01-2025 20:22:30 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 5
+[INFO] 30-01-2025 20:22:31 [main] [TestCases.TC06FinishingOrderTest.finishOrderTC(TC06FinishingOrderTest.java:64)] - Zipcode is 84996 Firstname is Omar-2025-01-30-8-22-21PM Lastname is Atef-2025-01-30-8-22-21PM
+[INFO] 30-01-2025 20:22:31 [main] [Pages.P06FinishingOrderPage.assertVisibilityOfThanksMessage(P06FinishingOrderPage.java:20)] - MSG Thank you for your order!
+[INFO] 30-01-2025 20:22:31 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case finishOrderTC Passed

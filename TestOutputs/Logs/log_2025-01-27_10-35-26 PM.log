@@ -1,0 +1,13 @@
+[INFO] 27-01-2025 22:35:26 [main] [TestCases.TC04CheckoutTest.setup(TC04CheckoutTest.java:33)] - EDGE Browser IS Opened
+[INFO] 27-01-2025 22:35:39 [main] [TestCases.TC04CheckoutTest.setup(TC04CheckoutTest.java:35)] - Redirected To LoginPage
+[INFO] 27-01-2025 22:35:40 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case clickOnCartIcon Started
+[INFO] 27-01-2025 22:35:40 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 1
+[INFO] 27-01-2025 22:35:40 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 2
+[INFO] 27-01-2025 22:35:41 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 4
+[INFO] 27-01-2025 22:35:41 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 6
+[ERROR] 27-01-2025 22:35:41 [main] [Utilities.UtilityData.getJsonData(UtilityData.java:26)] - Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[INFO] 27-01-2025 22:35:41 [main] [Pages.P04CheckoutPage.enterFirstName(P04CheckoutPage.java:30)] - Firstname is 
+[ERROR] 27-01-2025 22:35:41 [main] [Utilities.UtilityData.getJsonData(UtilityData.java:26)] - Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[INFO] 27-01-2025 22:35:42 [main] [Pages.P04CheckoutPage.enterLastName(P04CheckoutPage.java:37)] - Lastname is 
+[INFO] 27-01-2025 22:35:42 [main] [Pages.P04CheckoutPage.enterPostalCode(P04CheckoutPage.java:44)] - Zipcode is 12345
+[INFO] 27-01-2025 22:35:42 [main] [Listeners.IInvokedListener.afterInvocation(IInvokedListener.java:19)] - Test Case clickOnCartIcon Failed

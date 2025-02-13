@@ -1,0 +1,11 @@
+[INFO] 27-01-2025 19:38:11 [main] [TestCases.TC03CartTest.setup(TC03CartTest.java:33)] - EDGE Browser IS Opened
+[INFO] 27-01-2025 19:38:13 [main] [TestCases.TC03CartTest.setup(TC03CartTest.java:35)] - Redirected To LoginPage
+[INFO] 27-01-2025 19:38:13 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case clickOnCartIcon Started
+[INFO] 27-01-2025 19:38:14 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 1
+[INFO] 27-01-2025 19:38:14 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 2
+[INFO] 27-01-2025 19:38:14 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 3
+[INFO] 27-01-2025 19:38:15 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 5
+[INFO] 27-01-2025 19:38:15 [main] [Pages.P02HomePage.getTotalPriceOfSelectedProductsInHomePage(P02HomePage.java:122)] - Total Price Of Selected Products In Home Page = 63.96
+[INFO] 27-01-2025 19:38:15 [main] [Pages.P02HomePage.getTotalPriceOfSelectedProductsInHomePage(P02HomePage.java:122)] - Total Price Of Selected Products In Home Page = 127.91999
+[INFO] 27-01-2025 19:38:15 [main] [Pages.P03CartPage.getTotalPriceOfSelectedProductsInCartPage(P03CartPage.java:39)] - Total Price Of Products In Cart Page = 63.96
+[INFO] 27-01-2025 19:38:15 [main] [Listeners.IInvokedListener.afterInvocation(IInvokedListener.java:19)] - Test Case clickOnCartIcon Failed

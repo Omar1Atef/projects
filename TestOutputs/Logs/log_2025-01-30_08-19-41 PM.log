@@ -1,0 +1,9 @@
+[INFO] 30-01-2025 20:19:41 [main] [TestCases.TC06FinishingOrderTest.setup(TC06FinishingOrderTest.java:35)] - EDGE Browser IS Opened
+[INFO] 30-01-2025 20:19:41 [main] [TestCases.TC06FinishingOrderTest.setup(TC06FinishingOrderTest.java:37)] - Redirected To LoginPage
+[INFO] 30-01-2025 20:19:42 [main] [Listeners.ITestListener.onTestStart(ITestListener.java:10)] - Test Case finishOrderTC Started
+[INFO] 30-01-2025 20:19:43 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 1
+[INFO] 30-01-2025 20:19:44 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 3
+[INFO] 30-01-2025 20:19:44 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 4
+[INFO] 30-01-2025 20:19:44 [main] [Pages.P02HomePage.addRandomItemsToCart(P02HomePage.java:63)] - random number 6
+[INFO] 30-01-2025 20:19:45 [main] [TestCases.TC06FinishingOrderTest.finishOrderTC(TC06FinishingOrderTest.java:64)] - Zipcode is 76958 Firstname is Omar-2025-01-30-8-19-21PM Lastname is Atef-2025-01-30-8-19-21PM
+[INFO] 30-01-2025 20:19:45 [main] [Listeners.ITestListener.onTestSuccess(ITestListener.java:15)] - Test Case finishOrderTC Passed
