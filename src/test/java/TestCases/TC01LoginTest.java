@@ -29,7 +29,9 @@ public class TC01LoginTest
     @BeforeMethod
     public void setup() throws IOException
     {
-        DriverFactory.setupDriver(UtilityData.getPropertyData("environment","Browser"));
+        String browser = System.getProperty("myBrowser") != null ? System.getProperty("myBrowser") : UtilityData.getPropertyData("environment","Browser");
+        UtilityLogs.info("myBrowser = " + System.getProperty("myBrowser"));
+        DriverFactory.setupDriver(browser);
         UtilityLogs.info("EDGE Browser IS Opened");
         getDriver().get(UtilityData.getPropertyData("environment","BASE_URL"));
         UtilityLogs.info("Redirected To LoginPage");
