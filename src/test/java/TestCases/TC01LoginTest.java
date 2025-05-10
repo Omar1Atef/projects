@@ -48,6 +48,7 @@ public class TC01LoginTest
                 .signInButton();
         Assert.assertTrue(new P01LoginPage(getDriver()).assertLoginTC(UtilityData.getPropertyData("environment","HOME_URL")));
 //        Assert.assertEquals(getDriver().getCurrentUrl(),UtilityData.getPropertyData("environments","home_url"));
+        //Omar
     }
 
     @AfterMethod
